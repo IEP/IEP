@@ -1,4 +1,4 @@
-### Ivan Here
+#### Summary
 
 Data science practitioner who passionate about technology and various tech-related stuff. Always ready for the tech-based ad-hoc challenges especially that related to big data.
 
@@ -18,6 +18,11 @@ Data science practitioner who passionate about technology and various tech-relat
 <a href="https://about.gitlab.com/" title="Gitlab"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" alt="Gitlab" width="21px" height="21px"></a>
 <a href="https://cloud.google.com/gcp/" title="Google Cloud Platform"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-cloud-platform.svg" alt="Google Cloud Platform" width="21px" height="21px"></a>
 <a href="https://julialang.org/" title="Julia"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/julia.svg" alt="Julia" width="21px" height="21px"></a>
----
+
+#### Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=IEP)](https://github.com/IEP)
+
+---
+
+You can find out more about me at [gproto.now.sh](https://gproto.now.sh)
